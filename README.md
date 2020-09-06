@@ -13,9 +13,9 @@ This is a Python script that twists 3D objects by manipulating the `gcode` machi
 
 ## Notes
 
-- Currently only objects with constant layer height are supported
+- Currently only objects with constant layer height are supported.
 - Twisting (rotation) axis is perpendicular to the printing bed.
-- Use Python of version ^3.7.x
+- Use Python of version ^3.7.x.
 
 <br>
 
